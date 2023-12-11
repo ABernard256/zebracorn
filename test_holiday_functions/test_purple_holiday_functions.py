@@ -14,6 +14,8 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 # Anabelle
 
+assert not naughty_or_nice(5,9)
+assert not brings_figgy_pudding(2,3,12,13)
 
 
 # Benjamin
