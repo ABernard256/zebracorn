@@ -13,9 +13,8 @@ assert home_for_the_holidays("Fouasnon") # since "Fouasnon" is between 5 and 13 
 assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the student is in the holiday spirit, a 5th form with 8 demerits is not nice, and so does not bring figgy pudding
 
 # Anabelle
-
-assert not naughty_or_nice(5,9)
-assert not brings_figgy_pudding(2,3,12,13)
+assert not naughty_or_nice(5, 9)
+assert not brings_figgy_pudding(2, 3, 12, 13)
 
 
 # Benjamin
